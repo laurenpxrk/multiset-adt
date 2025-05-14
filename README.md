@@ -1,6 +1,6 @@
 # Lab 2: Second Activity: Translating Python code to Java code
 
-Note: Your homework this week in the week2git assignment on MarkUs will require you to write similar code, so
+Note: Your homework this week on MarkUs will require you to write similar code, so
 do make sure to work through this lab activity to make the homework easier after.
 
 This second activity of the lab this week will ask you to write some code which you may
@@ -45,7 +45,9 @@ It should feel quite similar to code you would have seen in your first-year CS c
 ## Instructions
 
 In a small group (around 4–5 students), choose one of you to make a fork of
-https://github.com/CSC207-2024F-UofT/multiset-adt 
+https://github.com/CSC207-2025S-UofT/multiset-adt 
+
+Note: this can be a different team that you will work with for the rest of the term (Project), but it's a great opportunity for you to find some potential team members!
 
 - [ ] Each other team member should then make a fork of that repo (or the repository owner can add the others
   as collaborators). This is so you have a shared remote repo to which your group can all contribute.
